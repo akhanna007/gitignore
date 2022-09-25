@@ -1,6 +1,3 @@
 node_modules/
 $ git status
-.env 
-/artifacts/ 
-z*
-
+.env, /artifacts/, z* 
